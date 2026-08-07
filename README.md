@@ -41,8 +41,3 @@ Ongoing algorithm practice, kept public.
 **[Try!Hanzi](https://tryhanzi.com)** · live, source private
 Comparing Hanzi across Korean, Japanese, and Chinese — around 10,000 characters.
 Coverage is measured per field and published as measured.
-
----
-
-Seoul, Korea · open to relocating to Japan
-[Portfolio](https://bswebdev.dev) · [LinkedIn](https://www.linkedin.com/in/범석-김-b1a36021b)
