@@ -1,6 +1,6 @@
 ## BEOMSEOK KIM
 
-I work on pipelines that produce numbers nobody notices are wrong. —
+I work on pipelines that produce numbers nobody notices are wrong —
 assembled from sources that cannot be trusted.
 
 `Node.js` `NestJS` `PostgreSQL` `TypeScript` `Python`
